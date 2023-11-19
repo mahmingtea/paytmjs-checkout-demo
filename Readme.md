@@ -1,4 +1,4 @@
-# PaytmJS Checkout Demo
+# PaytmJS Checkout Demo using react and node js
 
 This repository contains two separate demo projects for integrating PaytmJS Checkout using React for the frontend and Node.js + Express for the backend.
 
