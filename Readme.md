@@ -26,4 +26,4 @@ npm start
 
 this will start the backend server at http://localhost:3000
 
-Enter your MID and MKEY at index.js
+* Before starting the server enter your MID and MKEY at index.js
